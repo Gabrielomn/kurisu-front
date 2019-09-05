@@ -8,9 +8,9 @@ export class Nav extends React.Component{
         return <div className="Nav">
             <i>Logo</i>
             <div className="buttons">
-                <button>Home</button>
-                <button>Duvidas</button>
-                <button>About Us</button>
+                <button><a href="/duvidas">Duvidas</a></button>
+                <button><a href="/howTo">Como usar</a></button>
+                <button><a href="/">Home</a></button>
             </div>
         </div>
 
