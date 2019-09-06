@@ -9,10 +9,11 @@ html, body{
 .App {
   text-align: center;
   display:grid;
-  grid-template-rows: 10vh 90vh;
-  grid-template-columns: 16fr;
+  grid-template-rows: 7vh 93vh;
   grid-template-areas: "n"
-                       "m"
+                       "m";
+
+  grid-row-gap: 50px;
 }
 
 

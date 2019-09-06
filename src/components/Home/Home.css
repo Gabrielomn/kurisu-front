@@ -1,0 +1,10 @@
+.Home{
+    display:flex;
+    flex-direction: column;
+    justify-items: center;
+    margin-left: 70px;
+}
+
+p{
+    font-size: 300px;
+}
