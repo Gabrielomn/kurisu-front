@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  
+}
+
+.row {
+  flex-direction: row;
+  justify-content: center;
+}
+
+.passos{
+  padding: 5px;
+}
+
+.seta{
+  font-size: 50px;
+}
+
+.texto{
+  width: 10%;
+  font-size: 20px;
+  padding: 0 0 0 15px;
+}
+
+.texto p {
+  text-align: justify;
+}
+
+.texto h1{
+  margin: 0;
+  padding: 0;
+}
+
+.division{
+  padding-top: 1%;
+}
