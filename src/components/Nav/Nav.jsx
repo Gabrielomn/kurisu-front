@@ -7,8 +7,6 @@ class Nav extends React.Component{
 
 
     render (){
-        console.log("cu")
-        this.getPath()
         return <div className={"Nav " + this.getPath()}>
             <div className="logo">
                 <i>Logo</i>

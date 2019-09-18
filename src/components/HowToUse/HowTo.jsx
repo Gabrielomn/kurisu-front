@@ -9,7 +9,7 @@ import { ReactComponent as Passo31 } from "../../assets/svg/passo31.svg";
 export class HowToUse extends React.Component {
   render() {
     return (
-      <div className="howto">
+      <div className="howto" id="howToContainer">
         <div className="container row">
           <Passo11 className="passos"></Passo11>
           <i className="material-icons seta">arrow_right_alt</i>

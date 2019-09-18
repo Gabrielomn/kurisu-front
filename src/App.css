@@ -10,7 +10,7 @@ html, body{
 .App {
   text-align: center;
   display:grid;
-  grid-template-rows: 7vh 93vh;
+  grid-template-rows: 80px ;
   grid-template-areas: "n"
                        "m";
 

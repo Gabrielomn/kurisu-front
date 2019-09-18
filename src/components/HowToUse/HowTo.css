@@ -5,7 +5,7 @@
 
 .row {
   flex-direction: row;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 .passos{
@@ -33,4 +33,9 @@
 
 .division{
   padding-top: 1%;
+}
+
+#howToContainer{
+  width: 70%;
+  justify-self: center;
 }
